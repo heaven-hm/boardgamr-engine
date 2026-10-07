@@ -210,3 +210,14 @@ or if you want to **disable** logs again you can use **BG_DisableLogs()** method
 
 **VERSION INFO :**<br/>
 BoardGamr-Engine Version : V 1.0  Dated : 17/02/2019.<br/>
+
+## Community modding and responsible use
+
+Please use this project for lawful, creative, educational, accessible, and
+community-friendly mods. We ask that mods remain free and that users avoid
+unlawful activity, infringement, malware, unauthorized access, and intentional
+real-world harm. See [the community modding policy](COMMUNITY_MODDING.md).
+
+The existing license in [LICENSE](LICENSE) remains in effect.
+These community preferences do not add restrictions to its permissions,
+including commercial use where permitted. Third-party rights remain valid.
